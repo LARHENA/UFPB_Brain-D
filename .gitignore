@@ -1,0 +1,8 @@
+*.h5
+*.nc
+*.png
+*.tiff
+/Scripts e Dados/shp
+/Scripts e Dados/1 - Organized data gauge
+/Scripts e Dados/5 - Results
+/Scripts e Dados/figures
