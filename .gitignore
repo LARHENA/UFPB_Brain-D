@@ -2,6 +2,12 @@
 *.nc
 *.png
 *.tiff
+*.pdf
+*.xls
+*.xlsx
+*.tif
+*.jpeg
+*.jpg
 /Scripts e Dados/shp
 /Scripts e Dados/1 - Organized data gauge
 /Scripts e Dados/5 - Results
@@ -166,4 +172,4 @@ Hidroweb/Figures/stations_by_yearSUDENE_last_years_pt.jpeg
 Hidroweb/Quality/INMET/Estacoes_Alta_Qualidade_da_Analise_Visual.xlsx
 Hidroweb/Scripts/CEMADEN/Table_info_BR_2022.xlsx
 Scripts e Dados/Layout_lindbg.tiff.tif
-*.pdf
+
